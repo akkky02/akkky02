@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  <strong>Tech Stack:</strong> Python | SQL | Sklearn | NLP Libraries (e.g., spaCy, NLTK) | Power BI | AWS | Hadoop | Spark | Github
+  <strong>Tech Stack:</strong> Python | SQL | Sklearn | Pytorch | Huggingface | NLP Libraries (e.g., spaCy, NLTK) | Power BI | AWS | Hadoop | Spark | Github
 </p>
 
 <p align="left">
