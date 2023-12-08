@@ -1,4 +1,4 @@
-# <h1 align="left">Hi 👋, I'm Akshat Patil</h1>
+# <h1 align="left">Hi 👋, I'm Akshat Patil </h1>
 
 <h3 align="left">
   | Data Scientist 🚀 | Specializing in NLP and Large Language Models (LLM) |
