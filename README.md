@@ -5,7 +5,7 @@
 </h3>
 
 <p align="left">
-  Passionate Data Scientist with a strong focus on Natural Language Processing (NLP) and fine-tuning Large Language Models (LLM). Over 3 years of experience, I've demonstrated expertise in harnessing the power of ML models, particularly in NLP advancements at Silver Hill Energy and optimizing data storage in the clouds at Allegiant Airlines. Currently exploring the data universe with a focus on NLP at Silver Hill Energy Partners. 🔍
+  Passionate Data Scientist with a strong focus on Natural Language Processing (NLP) and fine-tuning Large Language Models (LLM). Over 3 years of experience, I've demonstrated expertise in harnessing the power of ML models, particularly in NLP advancements at Silver Hill Energy and optimizing data storage in the clouds at Allegiant Airlines. 🔍
 </p>
 
 <p align="left">
