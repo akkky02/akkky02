@@ -5,16 +5,13 @@
 </h3>
 
 <p align="left">
-  Passionate Data Scientist with a strong focus on Natural Language Processing (NLP) and fine-tuning Large Language Models (LLM). Over 3 years of experience, I've demonstrated expertise in harnessing the power of ML models, particularly in NLP advancements at Silver Hill Energy and optimizing data storage in the clouds at Allegiant Airlines. 🔍
+  Passionate Data Scientist with a strong focus on Natural Language Processing (NLP) and fine-tuning Large Language Models (LLM). Over 4 years of experience.
 </p>
 
 <p align="left">
   <strong>Expertise:</strong> NLP | Large Language Models (LLM) | ML Modeling | Data Warehousing | ETL Pipelines | OCR-powered Data Extraction 🚀
 </p>
 
-<p align="left">
-  <strong>Key Achievements:</strong> Pioneered NLP innovations at Silver Hill, enhancing Document AI with BERT and RoBERTa models. Led real-time analytics for AFE-related activities using Power BI. Drove data migration projects at Allegiant Airlines, optimizing data efficiency on the Airbus Skywise platform. 💡
-</p>
 
 <p align="left">
   <strong>What Drives Me:</strong> Passionate about advancing data-driven strategies, particularly in the realm of NLP. I thrive on transforming raw data into impactful insights. Let's connect and explore the boundless possibilities at the intersection of data, AI, and innovation. 🎓
